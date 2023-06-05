@@ -1,0 +1,4 @@
+server.port: 8001
+groups-api-path: groups-api\
+products-api-path: products-api\
+users-api-path: users-api\

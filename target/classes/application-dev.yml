@@ -1,0 +1,5 @@
+groups:
+  - name: "group-1-dev"
+    id: 1
+  - name: "group-2-dev"
+    id: 2

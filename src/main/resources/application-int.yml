@@ -1,0 +1,5 @@
+groups:
+  - name: "group-1-int"
+    id: 1
+  - name: "group-2-int"
+    id: 2
